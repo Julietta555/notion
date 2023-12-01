@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "a@mail.ru",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "email": "a1@mail.ru",
+      "password": "1234"
+    },
+    {
+      "id": "b44626ba-ddfc-5d37-9b96-d047b6fd519d",
+      "email": "julia05.vil@gmail.com",
+      "password": "123456aA",
+      "createdAt": "25.11.2023, 23:06:43"
+    }
+  ],
+  "notes": [
+    {
+      "userId": "b44626ba-ddfc-5d37-9b96-d047b6fd519d",
+      "noteName": "Привет, пользователь",
+      "noteText": "рамоопмогпмдомдомдамдом",
+      "createdAt": "2023/11/30",
+      "id": 8945576094591
+    },
+    {
+      "userId": "b44626ba-ddfc-5d37-9b96-d047b6fd519d",
+      "noteName": "0987654345678909876543456789098",
+      "noteText": "878",
+      "createdAt": "2023/11/30",
+      "id": 8945576094592
+    }
+  ]
+}
